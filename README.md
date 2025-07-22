@@ -7,3 +7,5 @@ Hacknet Java Edition
 [DreamHead](https://www.mediafire.com/file/1jrhxulrgelbznx/DreamHead.wav/file)
 # Thanks
 [Hoyiqiang(AhQiangTW)](https://github.com/hoyiqiang)
+# C++ Edition by Skiawm91
+[Link]([https://github.com/Skiawm91](https://github.com/Skiawm91/Hacknet-For-CMD-Cpp))
