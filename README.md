@@ -8,4 +8,4 @@ Hacknet Java Edition
 # Thanks
 [Hoyiqiang(AhQiangTW)](https://github.com/hoyiqiang)
 # C++ Edition by Skiawm91
-[Link]([https://github.com/Skiawm91](https://github.com/Skiawm91/Hacknet-For-CMD-Cpp))
+[Link](https://github.com/Skiawm91/Hacknet-For-CMD-Cpp)
