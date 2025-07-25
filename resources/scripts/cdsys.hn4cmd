@@ -1,4 +1,0 @@
-PRINT x-server.sys
-PRINT os-config.sys
-PRINT bootcfg.dll
-PRINT netcfgx.dll
