@@ -1,5 +1,7 @@
 # Hacknet-Java-Edition
 Hacknet Java Edition
+Official Discord Server: [Click to Join](https://discord.gg/TKfFQgZKC4)
+Official Website: [Click to enter](https://hoyiqiang.wixsite.com/hacknet)
 # Musics downloads:
 [AmbientDroneClipped](https://www.mediafire.com/file/2kbutilx99y2186/AmbientDroneClipped.wav/file)<br>
 [Tutorial 1](https://www.mediafire.com/file/4xjiv1ygcwmdzmb/tutorial1.wav/file)<br>
