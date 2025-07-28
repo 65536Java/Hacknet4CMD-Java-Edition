@@ -1,7 +1,7 @@
 # Hacknet-Java-Edition
 Hacknet Java Edition
-Official Discord Server: [Click to Join](https://discord.gg/TKfFQgZKC4)<br>
-Official Website: [Click to enter](https://hoyiqiang.wixsite.com/hacknet)
+## Official Discord Server: [Click to Join](https://discord.gg/TKfFQgZKC4)<br>
+## Official Website: [Click to enter](https://hoyiqiang.wixsite.com/hacknet)
 # Musics downloads:
 [AmbientDroneClipped](https://www.mediafire.com/file/2kbutilx99y2186/AmbientDroneClipped.wav/file)<br>
 [Tutorial 1](https://www.mediafire.com/file/4xjiv1ygcwmdzmb/tutorial1.wav/file)<br>
@@ -10,4 +10,4 @@ Official Website: [Click to enter](https://hoyiqiang.wixsite.com/hacknet)
 # Thanks
 [Hoyiqiang(AhQiangTW)](https://github.com/hoyiqiang)
 # C++ Edition by [Skiawm91](https://github.com/skiawm91)
-[Link](https://github.com/Skiawm91/Hacknet-For-CMD-Cpp)
+## [Link](https://github.com/Skiawm91/Hacknet-For-CMD-Cpp)
