@@ -1,0 +1,25 @@
+PRINT Disk drives checked.
+WAITS 2
+PRINT Loading operating system...
+WAITS 3 
+PRINT Operating system loaded successfully.
+WAITS 1
+PRINT Starting services...
+PRINT Services initializing...
+WAITS 3 
+PRINT Services started.
+WAITS 2
+PRINT Configuring network...
+ipconfig /all
+PRINT Starting Avast 1.0...
+PRINT [Avast] Running antivirus scan...
+WAITS 1 
+PRINT [Avast] Scanning for viruses...
+WAITS 6 
+PRINT [Avast] No viruses found.
+WAITS 1 
+PRINT
+PRINT
+PRINT Booting complete.
+WAITS 3
+

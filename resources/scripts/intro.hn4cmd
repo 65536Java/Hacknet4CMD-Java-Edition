@@ -1,0 +1,30 @@
+CLEARSCREEN
+STOPALLAUDIO
+WAITS 2
+PRINTW -14天期限已到期:正在初始化FailSafe模式-
+PRINTW ----------------------------------
+WAITS 1
+PRINTW 你好
+WAITS 1
+PRINTW ...
+WAITS 1
+PRINTW 這件事不對勁... 比我想像中的還要複雜...
+WAITS 1
+PLAYAUDIO Revolve
+PRINTW 我本來想說我應該用過去式來寫這段話，不過恐怕......這件事還沒有結束 。
+WAITS 3
+PRINTW 我的名子叫GigaByte 當你看到這則訊息時 代表我已經死了...
+WAITS 3
+PRINT
+PRINT ...
+WAITS 3
+PLAYAUDIO tutorial1
+CLEARSCREEN
+WAITS 1
+PRINT
+PRINT tutorial mode
+PRINT
+PRINT 你現在處於危險之中!
+PRINT 請用最快的速度完成教學!
+PRINT 如果準備好了請輸入y 要跳過教學請輸入skip
+PRINT

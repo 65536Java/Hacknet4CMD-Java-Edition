@@ -1,0 +1,32 @@
+PLAYAUDIO AmbientDroneClipped
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT                ██╗  ██╗  █████╗   █████╗  ██╗  ██╗ ███╗  ██╗ ███████╗ ████████╗
+PRINT                ██║  ██║ ██╔══██╗ ██╔══██╗ ██║ ██╔╝ ████╗ ██║ ██╔════╝ ╚══██╔══╝
+PRINT                ███████║ ███████║ ██║  ╚═╝ █████═╝  ██╔██╗██║ █████╗      ██║
+PRINT                ██╔══██║ ██╔══██║ ██║  ██╗ ██╔═██╗  ██║╚████║ ██╔══╝      ██║
+PRINT                ██║  ██║ ██║  ██║ ╚█████╔╝ ██║ ╚██╗ ██║ ╚███║ ███████╗    ██║
+PRINT                ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚════╝  ╚═╝  ╚═╝ ╚═╝  ╚══╝ ╚══════╝    ╚═╝
+PRINT                                         [Java Edition]
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT                              1) Play
+PRINT                              2) Mods
+PRINT                              3) Settings
+PRINT                              4) Quit
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+PRINT
+CALL choose
